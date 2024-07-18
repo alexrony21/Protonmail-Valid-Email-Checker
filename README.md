@@ -4,19 +4,16 @@ This tool will check your email list from a txt file and verify which emails are
 
 ## Features
 
-- **Email List Input**: Provide a list of emails in a text file.
-- **Protonmail Verification**: Checks which emails are registered with Protonmail.
-- **Multithreading**: Supports multithreading for faster verification.
+- **Email List Input**.
+- **Protonmail Verification**.
+- **Multithreading**.
+- **No proxies needed**.
+- **No captcha issues**.
 
 ## Usage
 
 1. **Prepare Your Email List**: Create a text file with the emails you want to check. Each email should be on a new line.
 2. **Run the Tool**: Use the tool to check the list. The results will indicate which emails are registered with Protonmail.
-
-## Requirements
-
-- No proxies needed.
-- No captcha issues.
 
 ## Contact
 
