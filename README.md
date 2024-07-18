@@ -4,8 +4,8 @@ This tool will check your email list from a txt file and verify which emails are
 
 ## Features
 
-- **Email List Input**.
-- **Protonmail Verification**.
+- **Support Large Email List Input**.
+- **Accurate Protonmail Verification**.
 - **Multithreading**.
 - **No proxies needed**.
 - **No captcha issues**.
