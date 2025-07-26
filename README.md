@@ -1,5 +1,7 @@
 # Protonmail Valid Email Checker
 
+![image](https://raw.githubusercontent.com/alexrony21/Protonmail-Valid-Email-Checker/refs/heads/main/Protonmail_valid_email_Checker.png)
+
 This tool will check your email list from a txt file and verify which emails are registered with Protonmail and which are not. The tool supports multithreading for fast checking. No proxy is needed, and there are no captcha problems.
 
 ## Features
@@ -17,8 +19,11 @@ This tool will check your email list from a txt file and verify which emails are
 
 ## Contact
 
-If you want to buy this tool, contact me via Telegram [@alexrony21](https://t.me/alexrony21). 
+If you want to buy this tool, contact me via Telegram [@thepythoncode97](https://t.me/thepythoncode97). 
 
-**Please do not contact me if you are not serious about purchasing.**
+## Note:
+This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
+
+---
 
 Thank you!
